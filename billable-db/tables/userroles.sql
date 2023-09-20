@@ -1,0 +1,4 @@
+CREATE TABLE USERROLES (
+    userid INT PRIMARY KEY,
+    roles TEXT NOT NULL
+);
